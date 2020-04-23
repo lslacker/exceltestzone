@@ -727,9 +727,9 @@
                     "product_id": 3,
                     "test_id": 117,
                     "questions": 20,
-                    "attempts": 1,
-                    "result_best": 65,
-                    "result_average": 65,
+                    "attempts": 2,
+                    "result_best": 90,
+                    "result_average": 78,
                     "result_rank": 40
                 },
                 {
@@ -781,9 +781,9 @@
                     "product_id": 3,
                     "test_id": 119,
                     "questions": 20,
-                    "attempts": 2,
-                    "result_best": 50,
-                    "result_average": 48,
+                    "attempts": 3,
+                    "result_best": 60,
+                    "result_average": 52,
                     "result_rank": 60
                 },
                 {
