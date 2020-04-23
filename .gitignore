@@ -107,3 +107,4 @@ venv.bak/
 
 .vscode/
 resources/
+static/json/
